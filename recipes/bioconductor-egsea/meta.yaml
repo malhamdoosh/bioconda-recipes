@@ -1,6 +1,6 @@
-{% set version = "1.6.0" %}
+{% set version = "1.8.0" %}
 {% set name = "EGSEA" %}
-{% set bioc = "3.6" %}
+{% set bioc = "3.7" %}
 
 package:
   name: 'bioconductor-{{ name|lower }}'
